@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Raoul Collenteur</title>
+    <link>/publication-type/2/</link>
+      <atom:link href="/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>2</title>
+      <link>/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Estimating groundwater recharge from groundwater levels using non-linear transfer function noise models and comparison to lysimeter data</title>
+      <link>/publication/collenteur-estimating-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/collenteur-estimating-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pastas: Open Source Software for the Analysis of Groundwater Time Series</title>
+      <link>/publication/collenteur-pastas-2019/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/collenteur-pastas-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The failed-levee effect: Do societies learn from flood disasters?</title>
+      <link>/publication/collenteur-failed-levee-2015/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/collenteur-failed-levee-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

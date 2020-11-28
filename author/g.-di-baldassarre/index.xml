@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>G. Di Baldassarre | Raoul Collenteur</title>
+    <link>/author/g.-di-baldassarre/</link>
+      <atom:link href="/author/g.-di-baldassarre/index.xml" rel="self" type="application/rss+xml" />
+    <description>G. Di Baldassarre</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>G. Di Baldassarre</title>
+      <link>/author/g.-di-baldassarre/</link>
+    </image>
+    
+    <item>
+      <title>The failed-levee effect: Do societies learn from flood disasters?</title>
+      <link>/publication/collenteur-failed-levee-2015/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/collenteur-failed-levee-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

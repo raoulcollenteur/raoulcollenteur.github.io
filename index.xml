@@ -5,12 +5,60 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Raoul Collenteur</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 28 Nov 2020 12:54:46 +0100</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Raoul Collenteur</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Collecting Groundwater Levels in Europe</title>
+      <link>/post/collect_gwls/</link>
+      <pubDate>Sat, 28 Nov 2020 12:54:46 +0100</pubDate>
+      <guid>/post/collect_gwls/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python Hydro</title>
+      <link>/project/python/</link>
+      <pubDate>Sat, 28 Nov 2020 12:33:21 +0100</pubDate>
+      <guid>/project/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phydrus</title>
+      <link>/project/phydrus/</link>
+      <pubDate>Sat, 28 Nov 2020 12:21:15 +0100</pubDate>
+      <guid>/project/phydrus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pastas</title>
+      <link>/project/pastas/</link>
+      <pubDate>Sat, 28 Nov 2020 12:21:00 +0100</pubDate>
+      <guid>/project/pastas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating groundwater recharge from groundwater levels using non-linear transfer function noise models and comparison to lysimeter data</title>
+      <link>/publication/collenteur-estimating-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/collenteur-estimating-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pastas: Open Source Software for the Analysis of Groundwater Time Series</title>
+      <link>/publication/collenteur-pastas-2019/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/collenteur-pastas-2019/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Privacy Policy</title>
@@ -28,6 +76,14 @@
       <guid>/terms/</guid>
       <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>The failed-levee effect: Do societies learn from flood disasters?</title>
+      <link>/publication/collenteur-failed-levee-2015/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/collenteur-failed-levee-2015/</guid>
+      <description></description>
     </item>
     
   </channel>

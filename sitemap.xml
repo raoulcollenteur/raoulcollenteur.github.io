@@ -3,6 +3,131 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/post/collect_gwls/</loc>
+    <lastmod>2020-11-28T12:54:46+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2020-11-28T12:54:46+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-11-28T12:54:46+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2020-11-28T12:33:21+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/python/</loc>
+    <lastmod>2020-11-28T12:33:21+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/phydrus/</loc>
+    <lastmod>2020-11-28T12:21:15+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/groundwater/</loc>
+    <lastmod>2020-11-28T12:21:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/pastas/</loc>
+    <lastmod>2020-11-28T12:21:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-11-28T12:21:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/time-series-analysis/</loc>
+    <lastmod>2020-11-28T12:21:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication-type/2/</loc>
+    <lastmod>2020-11-28T12:14:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2020-11-28T12:14:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/collenteur-estimating-2020/</loc>
+    <lastmod>2020-11-28T12:13:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/g.-klammler/</loc>
+    <lastmod>2020-11-28T12:13:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/m.-bakker/</loc>
+    <lastmod>2020-11-28T12:13:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-11-28T12:14:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2020-11-28T12:14:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/r.-collenteur/</loc>
+    <lastmod>2020-11-28T12:13:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/s.-birk/</loc>
+    <lastmod>2020-11-28T12:13:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/frans-schaars/</loc>
+    <lastmod>2020-11-28T12:14:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/mark-bakker/</loc>
+    <lastmod>2020-11-28T12:14:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/collenteur-pastas-2019/</loc>
+    <lastmod>2020-11-28T12:14:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/raoul-a.-collenteur/</loc>
+    <lastmod>2020-11-28T12:14:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/ruben-calje/</loc>
+    <lastmod>2020-11-28T12:14:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/stijn-a.-klop/</loc>
+    <lastmod>2020-11-28T12:14:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/privacy/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url>
@@ -13,27 +138,32 @@
   </url>
   
   <url>
-    <loc>/authors/</loc>
+    <loc>/author/b.-jongman/</loc>
+    <lastmod>2020-11-28T12:14:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/g.-di-baldassarre/</loc>
+    <lastmod>2020-11-28T12:14:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/h.-de-moel/</loc>
+    <lastmod>2020-11-28T12:14:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/r.-a.-collenteur/</loc>
+    <lastmod>2020-11-28T12:14:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/collenteur-failed-levee-2015/</loc>
+    <lastmod>2020-11-28T12:14:00+01:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-  </url>
-  
-  <url>
-    <loc>/</loc>
   </url>
   
   <url>
@@ -42,10 +172,6 @@
   
   <url>
     <loc>/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
   </url>
   
 </urlset>
